@@ -3,8 +3,9 @@
 #include <WiFi.h>
 #include "time.h"
 #include <AnimatedGIF.h>
-#include "images/hyperspace.h"
-#define GIF_IMAGE hyperspace
+#include "images/omnitrix.h"
+// #define GIF_IMAGE hyperspace
+#define GIF_IMAGE omnitrix
 
 AnimatedGIF gif;
 // Replace with your network credentials
